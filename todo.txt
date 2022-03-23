@@ -1,0 +1,4 @@
+//Podświetlenie przycisku kontakt po zjechaniu na sam dół strony. 
+//"Ślimak w podpisie na dole ma być odnośnikiem do maila do mnie"
+//Zmiana nazwy "Projekty" na realizacje
+//Favicon z symbolu "KK" albo "płomczka"
