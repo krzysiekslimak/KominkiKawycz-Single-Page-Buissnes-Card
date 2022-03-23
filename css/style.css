@@ -236,8 +236,15 @@ header .fa-chevron-down {
 /*# sourceMappingURL=style.css.map */
 
 #shiftedLetter{
-  top: -9px;
-  font-size: x-large;
+  top: -5px;
+  font-size: 26px;
+  transform: rotate(90deg);
+  color: rgb(169, 99, 24);
+  left: -5px;
+}
+#letterK{
+  left: -28px;
+  font-size:12px
 }
 .img{
   max-height: 600px;
